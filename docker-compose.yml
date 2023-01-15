@@ -2,9 +2,9 @@ services:
   app:
     build: .
     container_name: python-server
-    command: uvicorn src.main:app --host 0.0.0.0 --port 80 --reload
+    command: uvicorn src.main:app --host 0.0.0.0 --port 82 --reload
     ports:
-      - 80:80
+      - 82:82
       - 5678:5678
     volumes:
       - .:/code
