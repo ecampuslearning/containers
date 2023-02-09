@@ -1,4 +1,4 @@
-# How to create a great local Python development environment with Docker
+# Python development environment with Docker
 
 Work in progress
 
