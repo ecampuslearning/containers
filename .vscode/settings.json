@@ -1,3 +1,7 @@
+"DockerRun.DisableAutoGenerateConfig": true
+=======
 {
-    "DockerRun.DisableAutoGenerateConfig": true
+    "npm.enableRunFromFolder": true,
+    "markdown.occurrencesHighlight.enabled": true,
+    "merge-conflict.autoNavigateNextConflict.enabled": true>>>>>> main
 }
