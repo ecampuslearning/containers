@@ -1,0 +1,58 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "editor.matchBrackets": false,
+    "files.associations": {
+        "MLTable": "yaml",
+        ".env*": "dotenv"
+    },
+    "editor.tokenColorCustomizations": {
+        "[*Light*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#000"
+                    }
+                }
+            ]
+        },
+        "[*Dark*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#fff"
+                    }
+                }
+            ]
+        },
+        "textMateRules": [
+            {
+                "scope": "keyword.other.dotenv",
+                "settings": {
+                    "foreground": "#FF000000"
+                }
+            }
+        ]
+    },
+    "chromiumide.metrics.showMessage": false,
+    "symbols.hidesExplorerArrows": false,
+    "chromiumide.metrics.collectMetrics": true,
+    "remote.SSH.defaultExtensions": [
+        "hocus.hocus-remote"
+    ],
+    "oracledevtools.bookmarkFileFolder": "/home/igewebs/Oracle/oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "/home/igewebs/downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "/home/igewebs/Oracle/network/admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "/home/igewebs/Oracle/network/admin",
+    "Codegeex.Privacy": true,
+    "DockerRun.DisableAutoGenerateConfig": true
+}
